@@ -18,12 +18,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Services\" />
-    <Folder Include="Shared\Behavior\" />
     <Folder Include="Shared\Exceptions\" />
-    <Folder Include="UseCases\DeleteUser\" />
-    <Folder Include="UseCases\GetAllUser\" />
-    <Folder Include="UseCases\UpdateUser\" />
   </ItemGroup>
 
 </Project>
